@@ -12,6 +12,8 @@ Redeem your Azure Pass Code.
 
 <img src="img/Azure-Pass-3.png" width="600"/>
 
+No real data is needed here.
+
 <img src="img/Azure-Pass-4.png" width="600"/>
 
 <img src="img/Azure-Pass-5.png" width="600"/>
